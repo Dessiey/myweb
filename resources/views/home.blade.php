@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @section('content')
-My web Admin 
+My web Adminstration HOME 
 
 </div>
 </div>
